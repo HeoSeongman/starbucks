@@ -12,6 +12,7 @@ body{
   line-height: 1.4;
   font-family: 'Nanum Gothic', sans-serif;
   /* height: 5500px; */
+  padding-top: 120px;
 }
 img{
   display: block;
